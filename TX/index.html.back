@@ -1,0 +1,535 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> 
+
+<html class="no-js"> <!--<![endif]-->
+    <head>
+        <title>视频</title>
+
+        <!-- meta -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        
+        <!-- stylesheets -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+        <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+        <link rel="stylesheet" href="assets/css/owl.carousel.css">
+        <link rel="stylesheet" href="assets/css/owl.theme.css">
+        <!-- <link rel="stylesheet" href="assets/css/owl.transitions.css"> -->
+        <link rel="stylesheet" href="assets/js/nivo-lightbox/nivo-lightbox.css">
+        <link rel="stylesheet" href="assets/js/nivo-lightbox/nivo-lightbox-theme.css">
+        <link rel="stylesheet" href="assets/css/animate.css">
+        <link rel="stylesheet" href="assets/css/style.css">
+
+        <!-- google fonts -->
+        <link href='http://fonts.googleapis.com/css?family=Raleway:200,300,400,500,600,700,800,900' rel='stylesheet' type='text/css'>
+        <link href='http://fonts.googleapis.com/css?family=Roboto:100,300,400,500' rel='stylesheet' type='text/css'>
+
+
+    </head>
+    <body id="body">
+        <!--[if lt IE 7]>
+                <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+        <div id="fb-root"></div>
+        <script>
+            (function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
+                fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));
+        </script>
+
+
+
+        <!-- Header area -->
+        <header id="header">
+
+            <div class="header-left">
+			
+                <div class="header-text">
+				<h1 class="kwai-slogan">快手，<br>记录世界&nbsp;记录你</h1>
+				
+                    
+                    <h1 class="header-title">感谢快手官方</h1>
+                    <p class="author">by com.github.wczzsmmb</p>
+                    <div class="subscribe">
+                       
+                        <a target="_blank" href="https://live.kuaishou.com/profile/jiaxuemin916">
+                            <img class="img-responsive" src="assets/img/贾学敏.png" width=140px height=41px>
+                        </a>
+						 <a target="_blank" href="https://live.kuaishou.com/profile/wangfeiyue123">
+                            <img class="img-responsive" src="assets/img/王飞跃.png"width=140px height=41px >
+                        </a>
+                    </div> <!--  /.subscribe  -->
+                </div>
+            </div> <!--  /.header-left  -->
+
+            <div class="header-right"></div> <!--  /.header-right  -->
+
+        </header> <!--  /#header  -->
+
+
+
+        <!-- Navigation area -->
+
+        <section id="navigation">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xs-6">
+                        <div class="logo">
+                            <a data-scroll href="#header">
+                                <img class="img-responsive" src="assets/img/logo.png">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="col-xs-6">
+                        <div class="nav">
+                            <a href="#" data-placement="bottom" title="Menu" class="menu" data-toggle="dropdown"><i class="fa fa-bars"></i></a>
+                            <div class="dropdown-menu">
+                                <div class="arrow-up"></div>
+                                <ul>
+                                    <li>
+                                        <a data-scroll href="#featured">图片 <i class="fa fa-youtube-play"></i></a>
+                                    </li>
+                                    <li>
+                                        <a data-scroll href="#about">关于<i class="fa fa-user-secret"></i></a>
+                                    </li>
+                                    <li>
+                                        <a data-scroll href="#portfolio">视频 <i class="fa fa-paperclip"></i></a>
+                                    </li>
+                                    
+                                </ul>
+                            </div> <!--  /.dropdown-menu  -->
+                        </div> <!--  /.nav  -->
+                    </div>
+
+                </div> <!--  /.row  -->
+            </div> <!--  /.container  -->     
+        </section> <!--  /#navigation  -->
+
+
+
+        <!--   Feauterd  video  area  -->
+
+        <section id="featured" class="latest_videos">
+            <div class="container clearfix">
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-heading">
+                            <h2 class="section-title">图片</h2>
+                            <img src="assets/img/headline-bottom.png">
+                        </div>  <!--  /.section-heading  -->
+                    </div>
+                </div> <!--  /.row  -->
+            </div> <!--  /.container  -->
+
+            <div class="featured-content">
+                
+                      <img src="assets/photo/0.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/1.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/10.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/100.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/101.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/102.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/103.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/104.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/105.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/106.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/107.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/108.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/109.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/11.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/110.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/111.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/112.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/113.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/114.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/115.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/116.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/117.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/118.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/119.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/12.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/120.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/121.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/122.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/123.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/124.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/13.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/14.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/15.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/16.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/17.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/18.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/19.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/2.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/20.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/21.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/22.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/23.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/24.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/25.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/26.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/27.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/28.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/29.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/3.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/30.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/31.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/32.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/33.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/34.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/35.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/36.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/37.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/38.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/39.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/4.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/40.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/41.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/42.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/43.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/44.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/45.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/46.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/47.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/48.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/49.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/5.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/50.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/51.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/52.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/53.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/54.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/55.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/56.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/57.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/58.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/59.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/6.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/60.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/61.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/62.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/63.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/64.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/65.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/66.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/67.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/68.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/69.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/7.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/70.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/71.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/72.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/73.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/74.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/75.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/76.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/77.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/78.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/79.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/8.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/80.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/81.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/82.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/83.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/84.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/85.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/86.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/87.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/88.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/89.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/9.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/90.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/91.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/92.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/93.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/94.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/95.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/96.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/97.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/98.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/99.jpg" frameborder="0"  allowfullscreen ></img>
+
+<img src="assets/photo/125.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/126.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/127.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/128.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/129.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/130.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/131.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/132.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/133.jpg" frameborder="0"  allowfullscreen ></img>
+<img src="assets/photo/134.jpg" frameborder="0"  allowfullscreen ></img>
+                   
+                   
+                    
+
+    
+                <a class="prev" id="featured_videos_prev" href="#"><!-- <i class="fa fa-chevron-left"></i> --></a>
+                <a class="next" id="featured_videos_next" href="#"><!-- <i class="fa fa-chevron-right"> --></a>     
+            </div> <!--   end of car-content -->
+        </section> <!--  /#featured .latest_videos  -->
+
+
+        <!--   About  area  -->
+
+        <section id="about">
+		
+		
+            <div class="container">
+			
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="section-heading">
+                            <h2 class="section-title">贾学敏and王飞跃
+</h2>
+                            <img src="assets/img/headline-bottom.png">
+                        </div> <!--  / .section-heading  -->
+                    </div>
+                </div> <!--  / .row  -->
+
+                <div class="row">
+                    <div class="about-content">
+
+                        <div class="col-md-3 col-sm-12 col-xs-12">
+                           
+                        </div>
+
+                       <div>
+					    <a target="_blank" href="https://live.kuaishou.com/profile/jiaxuemin916">
+					   <img src="assets\jxm.PNG">
+					   </a>
+					   
+					    <a target="_blank" href="https://live.kuaishou.com/profile/wangfeiyue123">
+                           <img src="assets\wfy.PNG">
+                        </a>
+					   </div>
+                                
+                            </div> <!--  / .row  -->
+                        </div>
+                    </div> <!--  / .about-content  -->
+                </div> <!--  / .row  -->
+            </div> <!--  /.container  -->
+        </section> <!--  /#about  -->
+
+
+
+
+
+        <!-- Portfolio Area -->
+
+        <section id="portfolio">
+            <div class="container">
+                <div class="row portfolio-items">
+
+                    <div class="grid">
+                        <div class="portfolio-item effect-zoe">
+                            <div class="video-wrapper">
+                                <img class="img-responsive wow animated zoomIn" alt="Video Portfolio 1" src="http://ali2.a.yximgs.com/upic/2019/10/27/18/BMjAxOTEwMjcxODQ2MThfMzQ3NTg3NTIzXzE4OTQyNDk5MDkxXzFfMw==_B08ee12e61041a7da458bdfd0d62daa60.jpg?tag=1-1573372454-sp-0-bipnbkutb0-6dd71046dd82a02e">
+                            </div>
+                            <figcaption id="lightbox-video">
+                                <p class="icon-links">
+                                    <a href="assets/video/4.mp4" data-lightbox-gallery="screenshots">
+                                        <img class="img-responsive center-block img_res" src="assets/img/video-hover.png">
+                                    </a>
+                                </p> <!--  / .icon-links  -->
+                            </figcaption> <!--  / #lightbox-video  -->
+                        </div> <!--  / .portfolio-item effect-zoe  -->
+                    </div> <!--  / .grid  -->
+
+                    <div class="grid">
+                        <div class="portfolio-item effect-zoe">
+                            <div class="video-wrapper">
+                                <img class="img-responsive wow animated zoomIn" alt="Video Portfolio 2" src="http://bs.a.yximgs.com/upic/2019/10/13/14/BMjAxOTEwMTMxNDI0MTNfMzQ3NTg3NTIzXzE4NDg0NjM3MDc5XzFfMw==_B9d8a173fde070ceb9b307dcc47c48fbd.jpg?tag=1-1573372620-sp-0-rn6khkaftz-26e61b073fc7b593">
+                            </div>
+                            <figcaption id="lightbox-video">
+                                <p class="icon-links">
+                                    <a href="http://bsmov.a.yximgs.com/upic/2019/10/13/14/BMjAxOTEwMTMxNDI0MTNfMzQ3NTg3NTIzXzE4NDg0NjM3MDc5XzFfMw==_b_B31ea0516768219ebd15cc93aee52fed9.mp4?tag=1-1573372620-sp-0-809cisstnn-e9926066b01aaa53" data-lightbox-gallery="screenshots">
+                                        <img class="img-responsive center-block img_res" src="assets/img/video-hover.png">
+                                    </a>
+                                </p> <!--  / .icon-links  -->
+                            </figcaption> <!--  / #lightbox-video  -->
+                        </div> <!--  / .portfolio-item effect-zoe  -->
+                    </div> <!--  / .grid  -->
+					
+					
+					
+					<div class="grid">
+                        <div class="portfolio-item effect-zoe">
+                            <div class="video-wrapper">
+                                <img class="img-responsive wow animated zoomIn" alt="Video Portfolio 2" src="http://js2.a.yximgs.com/upic/2019/09/13/16/BMjAxOTA5MTMxNjEyNTdfMzQ3NTg3NTIzXzE3NDI3NTU4NDM0XzFfMw==_B44a353f5ef8cd2dbffb4e67ecf1b4c6b.jpg?tag=1-1573372699-sp-0-sosixbglzx-272cfc597dee8e82">
+                            </div>
+                            <figcaption id="lightbox-video">
+                                <p class="icon-links">
+                                    <a href="assets/video/2.mp4" data-lightbox-gallery="screenshots">
+                                        <img class="img-responsive center-block img_res" src="assets/img/video-hover.png">
+                                    </a>
+                                </p> <!--  / .icon-links  -->
+                            </figcaption> <!--  / #lightbox-video  -->
+                        </div> <!--  / .portfolio-item effect-zoe  -->
+                    </div> <!--  / .grid  -->
+					
+					
+					
+					
+					<div class="grid">
+                        <div class="portfolio-item effect-zoe">
+                            <div class="video-wrapper">
+                                <img class="img-responsive wow animated zoomIn" alt="Video Portfolio 2" src="assets/video/6321.png">
+                            </div>
+                            <figcaption id="lightbox-video">
+                                <p class="icon-links">
+                                    <a href="assets/video/3.mp4" data-lightbox-gallery="screenshots">
+                                        <img class="img-responsive center-block img_res" src="assets/img/video-hover.png">
+                                    </a>
+                                </p> <!--  / .icon-links  -->
+                            </figcaption> <!--  / #lightbox-video  -->
+                        </div> <!--  / .portfolio-item effect-zoe  -->
+                    </div> <!--  / .grid  -->
+
+
+
+
+
+<div class="grid">
+                        <div class="portfolio-item effect-zoe">
+                            <div class="video-wrapper">
+                                <img class="img-responsive wow animated zoomIn" alt="Video Portfolio 2" src=" http://ali2.a.yximgs.com/upic/2019/11/10/14/BMjAxOTExMTAxNDM4MzRfMzQ3NTg3NTIzXzE5MzkyMzYyMzI1XzFfMw==_B8a63b4fee2ad657120a8524324257989.jpg?tag=1-1573372167-sp-0-fkfjxjuqv9-8f805581df0d5adc">
+                            </div>
+                            <figcaption id="lightbox-video">
+                                <p class="icon-links">
+                                    <a href="http://alimov2.a.yximgs.com/upic/2019/11/10/14/BMjAxOTExMTAxNDM4MzRfMzQ3NTg3NTIzXzE5MzkyMzYyMzI1XzFfMw==_b_Bc6ed484a1a2648ecca065572a72535f4.mp4?tag=1-1573372167-sp-0-3ulxru2h8u-19e9e812730890bf" data-lightbox-gallery="screenshots">
+                                        <img class="img-responsive center-block img_res" src="assets/img/video-hover.png">
+                                    </a>
+                                </p> <!--  / .icon-links  -->
+                            </figcaption> <!--  / #lightbox-video  -->
+                        </div> <!--  / .portfolio-item effect-zoe  -->
+                    </div> <!--  / .grid  -->
+                    
+                </div> <!--  / .row portfolio-items  -->
+            </div> <!--  / .container  -->
+        </section>
+
+
+
+
+
+        <!-- Contact Area -->
+
+
+        <section id="contact" class="block">
+           
+                        
+
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            
+                        </div>
+
+                        <div class="col-md-4 col-sm-12 col-xs-12">
+                            <div class="like-box center-block">
+                              
+                                <div class="fb-like-box" data-href="https://www.facebook.com/TechNextit" data-width="360px" data-height="364px" data-colorscheme="light" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div> <!--  /.fb-like-box  -->
+                                
+                            </div> <!--  /.like-box  -->
+                        </div>
+
+                    </div><!--  /.row -->
+                </div><!--/.container-->
+            </div> <!--  /.contact-wrapper  -->
+        </section><!--/#contact-->
+
+
+        <!-- Footer Area -->
+
+        <footer>
+            
+
+                    
+
+        </footer>
+
+
+        <!-- Necessery scripts -->
+        <script src="assets/js/jquery-2.1.3.min.js"></script>
+        <script src="assets/js/jquery.actual.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+        <script src="assets/js/jquery.fittext.js"></script>
+        <script src="assets/js/modernizr.js"></script>
+        <script src="assets/js/gestures.js"></script>
+        <script src="assets/js/jquery.carouFredSel.min.js"></script>
+        <script src="assets/js/jquery.themepunch.plugins.min.js"></script>
+        <script src="assets/js/jquery.themepunch.revolution.min.js"></script>
+        <script src="assets/js/smooth-scroll.js"></script>
+        <script src="assets/js/owl.carousel.js"></script>
+        <script src="assets/js/wow.min.js"></script>
+        <script src="assets/js/nivo-lightbox/nivo-lightbox.min.js"></script>
+        <script src="assets/js/script.js"></script>
+
+
+
+        <!-- fitext for header-title -->
+
+        <script>
+            jQuery(".header-title").fitText(0.8,{ minFontSize: '21px', maxFontSize: '64px' });
+        </script>
+
+
+        <!-- script for featured video  -->
+
+        <script>    
+            jQuery(document).ready(function($) {    
+                var screenRes = $(window).width();
+                
+                $('#featured_videos').carouFredSel({
+                    prev : "#featured_videos_prev",
+                    next : "#featured_videos_next", 
+                    infinite: false,
+                    circular: true,
+                    auto: false,
+                    width: '100%',              
+                    scroll: {
+                        items : 1,
+                        onBefore: function (data) {
+                            if (screenRes > 900) {
+                            data.items.visible.eq(0).animate({opacity: 0.2},300);
+                            data.items.old.eq(-1).animate({opacity: 1},300);
+                            data.items.visible.eq(-1).animate({opacity: 0.2},300);                    
+                            }
+                        },
+                        onAfter: function (data) {
+                            if (screenRes > 900) {
+                            data.items.old.eq(0).animate({opacity: 1},300); 
+                            }
+                        }
+                    }
+                });         
+                if (screenRes > 900) {
+                    var vis_items = $("#featured_videos").triggerHandler("currentVisible");
+                    vis_items.eq(-1).animate({opacity: 0.2},100);
+                    vis_items.eq(0).animate({opacity: 0.2},100);
+                }
+            });
+        </script> 
+
+
+        <!-- script for embed video responsive -->
+
+        <script type="text/javascript">
+            /* Script to find all imgS on a page and, if they are of a certain media type, wrap them in a DIV so that they can be styled to be responsive */
+
+            $(document).ready(function () { 
+                $('img[src*="youtube.com"]').wrap('<div class="youtubeWrapper" />'); 
+            });
+
+        </script>
+
+    </body>
+</html>
