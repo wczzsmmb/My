@@ -1,0 +1,872 @@
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K1.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K10.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K100.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K101.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K102.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K103.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K104.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K105.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K106.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K107.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K108.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K109.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K11.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K110.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K111.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K112.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K113.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K114.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K115.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K116.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K117.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K118.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K119.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K12.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K120.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K121.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K122.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K123.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K124.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K125.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K126.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K127.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K128.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K129.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K13.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K130.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K131.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K132.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K133.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K134.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K135.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K136.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K137.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K138.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K139.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K14.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K140.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K141.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K142.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K143.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K144.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K145.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K15.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K16.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K17.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K18.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K19.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K2.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K20.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K21.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K22.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K23.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K24.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K25.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K26.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K27.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K28.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K29.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K3.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K30.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K31.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K32.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K33.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K34.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K35.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K36.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K37.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K38.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K39.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K4.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K40.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K41.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K42.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K43.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K44.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K45.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K46.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K47.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K48.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K49.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K5.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K50.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K51.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K52.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K53.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K54.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K55.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K56.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K57.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K58.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K59.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K6.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K60.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K61.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K62.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K63.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K64.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K65.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K66.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K67.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K68.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K69.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K7.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K70.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K71.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K72.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K73.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K74.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K75.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K76.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K77.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K78.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K79.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K8.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K80.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K81.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K82.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K83.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K84.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K85.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K86.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K87.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K88.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K89.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K9.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K90.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K91.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K92.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K93.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K94.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K95.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K96.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K97.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K98.mp4" type="video/mp4">
+       </video>
+  </div>
+<div id="site">
+  <div id="videoBox" class="box">
+    <video width="400" controls>
+      <source src="成都街拍子/K99.mp4" type="video/mp4">
+       </video>
+  </div>
+list.bat
+LIST.TXT
